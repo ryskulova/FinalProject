@@ -1,0 +1,5 @@
+C:/Users/Asus/svm/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/svm/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Asus/svm/build/svm/CMakeFiles/svm.dir
+C:/Users/Asus/svm/build/svmasm/CMakeFiles/svmasm.dir
+C:/Users/Asus/svm/build/assemblies/CMakeFiles/assemblies.dir

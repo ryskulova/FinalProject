@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Asus/svm/svmasm/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Asus\svm\build\svmasm\CMakeFiles\generate.stamp is up-to-date.
+  svmasm.cpp
+  svmasm.vcxproj -> C:\Users\Asus\svm\build\svmasm\Debug\svmasm.exe

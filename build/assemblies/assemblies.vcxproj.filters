@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\svm\assemblies\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Asus\svm\build\CMakeFiles\6fc9cb07b0f257456f2f8848138f2f45\change_registers_and_exit.vmexe.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asus\svm\build\CMakeFiles\6fc9cb07b0f257456f2f8848138f2f45\write_to_register_in_loop.vmexe.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Asus\svm\build\CMakeFiles\981297b672888fb33c6d65e9dfdd5237\assemblies.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Asus\svm\build\assemblies\CMakeFiles\assemblies" />
+    <None Include="C:\Users\Asus\svm\assemblies\change_registers_and_exit.vmasm">
+      <Filter>Assembly Sources</Filter>
+    </None>
+    <None Include="C:\Users\Asus\svm\assemblies\write_to_register_in_loop.vmasm">
+      <Filter>Assembly Sources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2DAA6F49-B774-3BCE-B126-7F15B4EDF541}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assembly Sources">
+      <UniqueIdentifier>{A58121F7-810B-39F2-BD44-9DDAF88190F2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

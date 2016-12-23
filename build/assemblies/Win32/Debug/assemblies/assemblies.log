@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/Asus/svm/assemblies/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\Asus\svm\build\assemblies\CMakeFiles\generate.stamp is up-to-date.
+  Generating change_registers_and_exit.vmexe
+  Generating write_to_register_in_loop.vmexe
